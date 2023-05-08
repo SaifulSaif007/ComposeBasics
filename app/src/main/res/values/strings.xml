@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CodeLab2</string>
+    <string name="search">Search</string>
+    <string name="batman">Batman</string>
+    <string name="doctor">Doctor Strange</string>
+    <string name="joker">Joker</string>
+    <string name="shawshank">Shaw shank</string>
+    <string name="spiderman">Spiderman</string>
+    <string name="thor">Thor</string>
+    <string name="vemon">Venom</string>
+    <string name="ww">Wonder Women</string>
+
+    <string name="popular_movie">Popular Movie</string>
+    <string name="trending_movie">Trending Movie</string>
+</resources>
